@@ -6,3 +6,7 @@ It currently contains:
 # Q-learning based maze solver
 
 learns to find the best path in a maze using Q learning
+
+# Deep Q-learning based maze solver
+
+learns to find the best path in a maze using Deep Q-learning
