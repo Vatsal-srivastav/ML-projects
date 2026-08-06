@@ -10,3 +10,5 @@ learns to find the best path in a maze using Q learning
 # Deep Q-learning based maze solver
 
 learns to find the best path in a maze using Deep Q-learning
+it uses a neural network built from scratch instead of using any AI/ML libraries 
+
